@@ -1,4 +1,4 @@
-# Clothing Store
+# Minimal Watch
 I have attempted to create a nice and minimalist appearance for a digital watch in this project! I've learned some advanced positioning and pseudo-classes techniques! The design is completely mobile-friendly! 🚀
 
 
