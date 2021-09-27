@@ -14,7 +14,6 @@ setInterval(() => {
 
   let week = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY']
 
-  if(hrTime == 0){hrTime = 12}
   if(hrTime < 10){hrTime = `0${hrTime}`}
 
   if(minTime < 10){minTime = `0${minTime}`}
